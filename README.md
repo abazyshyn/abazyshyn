@@ -1,10 +1,5 @@
 # 📚 Anton Bazyshyn 
 
-Solid and sharp Front-end Engineer with 3 years of hands-on experience. I build web applications using React, Next.js, TypeScript, and modern web technologies. Experienced in designing scalable architectures, optimizing performance, and writing clean, maintainable code.
-Additionally, I enjoy exploring new things in my free time and consider learning as my hobby. I’m currently working on a web app that helps people learn Japanese.
-
-I am excited about opportunities where I can contribute to modern or legacy web projects, work in a team environment, and continue growing as a Front-end Engineer.
-
 <div align="center">
     <a href="https://www.linkedin.com/in/anton-bazyshyn-dev/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge" alt="LinkedIn"/></a>
     <a href="https://bazyshyn-dev.vercel.app/"><img src="https://custom-icon-badges.demolab.com/badge/Portfolio-gray?style=for-the-badge" alt="LinkedIn Badge"/></a>
@@ -39,8 +34,8 @@ I am excited about opportunities where I can contribute to modern or legacy web 
     <img align="left" alt="cmake" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cmake/cmake-original.svg" />
     <img align="left" alt="c" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
     <img align="left" alt="cpp" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
-    <img align="left" alt="opengl" width="100px" style="padding-right:10px;" src="https://github.com/user-attachments/assets/a12e26f3-10c2-40dd-9b5c-221a0c5e2e02" />
-    <img align="left" alt="vulkan" width="110px" style="padding-right:10px;" src="https://github.com/user-attachments/assets/b3a7cb7d-9800-4a4e-aad7-73c7f5cb6b4b" />  
+    <img align="left" alt="opengl" width="100px" style="padding-right:10px;" src="https://github.com/user-attachments/assets/f66d0866-dd8f-4dd4-9a4a-0660c8cba352" />
+    <img align="left" alt="vulkan" width="110px" style="padding-right:10px;" src="https://github.com/user-attachments/assets/ea2f0d3e-a1c1-4e1e-bb5f-2dcb7d805670" />  
 </div>  
 
 <br/>
@@ -64,9 +59,3 @@ I am excited about opportunities where I can contribute to modern or legacy web 
 
 - [DotaScope](https://dotascope.vercel.app/)
 - [Initial D | Wiki](https://initial-d-wiki.vercel.app/)
-
-#
-
-### 📈 Statistic
-
-<p><img align="left" sstyle="padding-right:10px;" src="https://github-readme-stats.vercel.app/api/top-langs?username=abazyshyn&show_icons=true&locale=en&layout=compact" alt="abazyshyn" /></p>

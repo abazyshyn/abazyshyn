@@ -6,8 +6,6 @@
     <a href="https://leetcode.com/u/abazyshyn/"><img src="https://img.shields.io/badge/LeetCode-brown?style=for-the-badge" alt="LinkedIn Badge"/></a>
 </div>
 
----
-
 ### 🌐 Web Development Technology Stack
 
 <img align="left" alt="react.js" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
